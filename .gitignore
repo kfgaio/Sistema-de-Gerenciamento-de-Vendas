@@ -1,0 +1,41 @@
+# Arquivos e pastas do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos e pastas do ambiente de desenvolvimento
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependências e pacotes específicos
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos de log
+*.log
+
+# Arquivos de banco de dados
+*.sqlite3
+
+# Arquivos de compilação
+*.class
+*.o
+*.out
+*.so
+
+# Diretórios de build
+build/
+dist/
+
+# Configurações e arquivos temporários
+.env
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Arquivos do editor de texto
+*~
